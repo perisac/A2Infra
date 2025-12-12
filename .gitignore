@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .terraform/
 =======
+=======
+>>>>>>> d45f996062bed58c2bb9da174c36a31fcfef071a
 # Local .terraform directories
 .terraform/
 
@@ -38,4 +41,7 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+<<<<<<< HEAD
+>>>>>>> d45f996062bed58c2bb9da174c36a31fcfef071a
+=======
 >>>>>>> d45f996062bed58c2bb9da174c36a31fcfef071a
